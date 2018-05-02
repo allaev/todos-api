@@ -8,3 +8,5 @@ Todo-list web app with its own API<br>
 - REST
 - jQuery
 - AJAX
+
+![todo-list-screenshot](https://user-images.githubusercontent.com/34710484/39526718-125f0f68-4e39-11e8-9279-988b1ad16452.png)
